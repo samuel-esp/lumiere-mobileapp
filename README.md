@@ -2,7 +2,7 @@
 
 The app is a social network that allows people to have a blog containing their reviews about some movies they watched
 
-Video Walkthrough Available at: https://www.youtube.com/watch?v=N5Ub6s2fx70&t=78s&ab_channel=FrancoMilicchio
+Video Walkthrough Available at: https://youtu.be/N5Ub6s2fx70
 
 # :snowboarder:	 Use Cases
 
