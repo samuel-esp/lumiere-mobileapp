@@ -12,5 +12,5 @@ Video Walkthrough Available at: https://www.youtube.com/watch?v=N5Ub6s2fx70&t=78
 * User Can Search, Following other Users and be Followed by Other Users
 
 # :gear: Technologies Used
-*Flutter, Dart, Firebase 
+* Flutter, Dart, Firebase 
 
