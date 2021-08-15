@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89770953034",
+    "firebase_url": "https://lumiere-8a464.firebaseio.com",
+    "project_id": "lumiere-8a464",
+    "storage_bucket": "lumiere-8a464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89770953034:android:6716ed6cc45517fd7799b3",
+        "android_client_info": {
+          "package_name": "com.mobileproject2k20.lumiere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89770953034-5vtjcr47844hdm34scgd4ev13q4v26lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileproject2k20.lumiere",
+            "certificate_hash": "031b3d895ee9644f58eba448a0dbd56cc0eac5f4"
+          }
+        },
+        {
+          "client_id": "89770953034-jv0398ee7tbffrq1dnqgjaqbmd099d0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6UewH1c3vujmhv8oeH87tyf7fbexiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89770953034-jv0398ee7tbffrq1dnqgjaqbmd099d0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
