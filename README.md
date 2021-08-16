@@ -4,6 +4,10 @@ The app is a social network that allows people to have a blog containing their r
 
 Video Walkthrough Available at: https://youtu.be/N5Ub6s2fx70
 
+© Luigi Adornetto, Simone Cignitti, Diego De Fabritiis, Samuel Esposito
+
+
+
 # :snowboarder:	 Use Cases
 
 * User Can Register, Login and Change Password
